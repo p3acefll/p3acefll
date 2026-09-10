@@ -1,8 +1,29 @@
-# Глеб Кротов
+<h1 align="center">p3acefll 👋</h1>
 
-Начинающий backend-разработчик из Краснодара. Ищу первую работу или стажировку в разработке серверной части веб-приложений.
+<p align="center">
+  <b>Backend Developer</b>
+</p>
+---
 
-Учусь в КубГУ по направлению «Информационные системы и технологии». Практиковался в Python, C# и C++, участвовал в командной разработке интерактивных проектов на Unreal Engine.
+### 🚀 Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,postgres,sql" />
+</p>
+
+### 💻 Другие технологии
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,unreal,git" />
+</p>
+
+### 🎯 Сейчас изучаю...
+
+* ASP.NET Core
+* REST APIs
+* SQL & PostgreSQL
+* Backend architecture and clean code
+
 
 ## Проекты
 
@@ -14,9 +35,3 @@
 
 В README проектов — назначение, устройство и инструкции по запуску.
 
-## Практика и развитие
-
-- Python: простые Telegram-боты с меню и обработкой кнопок, автоматизация браузера.
-- Unreal Engine: логика анимаций и катсцен, Animation Blueprint, машины состояний.
-- Git: работа в своей ветке и коммиты в командном проекте.
-- Сейчас изучаю основы backend-разработки и устройство веб-приложений.
