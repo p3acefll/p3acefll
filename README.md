@@ -8,7 +8,7 @@
 ### 🚀 Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,postgres,sql" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,sql" />
 </p>
 
 ### 💻 Другие технологии
