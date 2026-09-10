@@ -1,16 +1,22 @@
-## Hi there 👋
+# Глеб Кротов
 
-<!--
-**p3acefll/p3acefll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий backend-разработчик из Краснодара. Ищу первую работу или стажировку в разработке серверной части веб-приложений.
 
-Here are some ideas to get you started:
+Учусь в КубГУ по направлению «Информационные системы и технологии». Практиковался в Python, C# и C++, участвовал в командной разработке интерактивных проектов на Unreal Engine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+
+| Проект | Что внутри | Технологии |
+| --- | --- | --- |
+| [nekto_skip](https://github.com/p3acefll/nekto_skip) | Автоматизация действий в браузере и управление через горячую клавишу | Python, Selenium, pynput |
+| [animation.palette](https://github.com/p3acefll/animation.palette) | Каталог CSS-анимаций с предпросмотром и примерами кода | HTML, CSS, JavaScript |
+| [animal_valley](https://github.com/p3acefll/animal_valley) | Учебный игровой прототип: огород, рыбалка, интерьер и сохранение прогресса | C#, Unity |
+
+В README проектов — назначение, устройство и инструкции по запуску.
+
+## Практика и развитие
+
+- Python: простые Telegram-боты с меню и обработкой кнопок, автоматизация браузера.
+- Unreal Engine: логика анимаций и катсцен, Animation Blueprint, машины состояний.
+- Git: работа в своей ветке и коммиты в командном проекте.
+- Сейчас изучаю основы backend-разработки и устройство веб-приложений.
