@@ -7,7 +7,7 @@
 ### 💻 Другие технологии
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,unreal,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,visualstudio,vscode,unreal,unity,git" />
 </p>
 
 ### 🎯 Сейчас изучаю...
