@@ -1,4 +1,4 @@
-<h1 align="center">p3acefll 👋</h1>
+<h1 align="center">  p3acefll 👋</h1>
 
 <p align="center">
   <b>Backend Developer</b>
@@ -21,7 +21,7 @@
 * ASP.NET Core
 * REST APIs
 * SQL & PostgreSQL
-* Backend architecture and clean code
+* Backend архитектуру
 
 
 ## Проекты
