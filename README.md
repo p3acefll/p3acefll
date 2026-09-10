@@ -1,7 +1,5 @@
-<h1 align="center">  p3acefll 👋</h1>
-
 <p align="center">
-  <b>Backend Developer</b>
+  <b>backend developer</b>
 </p>
 
 ### 🚀 Backend
