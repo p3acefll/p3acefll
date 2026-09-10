@@ -1,7 +1,3 @@
-<p align="center">
-  <b>backend developer</b>
-</p>
-
 ### 🚀 Backend
 
 <p>
