@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode" alt="Git, Visual Studio, VS Code" />
 </p>
 
-## 📚 Сейчас изучаю
+##№ 📚 Сейчас изучаю
 
 Развиваюсь в backend-разработке на C# и .NET:
 
