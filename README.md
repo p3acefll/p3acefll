@@ -1,30 +1,28 @@
-### 🚀 Backend
+## 🛠️ Технологии
+
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,sql" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres" alt="C#, .NET, PostgreSQL" />
 </p>
 
-### 💻 Другие технологии
+### Другие языки и технологии
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,visualstudio,vscode,unreal,unity,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,unity,unreal&perline=7" alt="C++, Python, JavaScript, HTML, CSS, Unity, Unreal Engine" />
 </p>
 
-### 🎯 Сейчас изучаю...
+### Инструменты
 
-* ASP.NET Core
-* REST APIs
-* SQL & PostgreSQL
-* Backend архитектуру
+<p>
+  <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode" alt="Git, Visual Studio, VS Code" />
+</p>
 
+## 📚 Сейчас изучаю
 
-## Проекты
+Развиваюсь в backend-разработке на C# и .NET:
 
-| Проект | Что внутри | Технологии |
-| --- | --- | --- |
-| [nekto_skip](https://github.com/p3acefll/nekto_skip) | Автоматизация действий в браузере и управление через горячую клавишу | Python, Selenium, pynput |
-| [animation.palette](https://github.com/p3acefll/animation.palette) | Каталог CSS-анимаций с предпросмотром и примерами кода | HTML, CSS, JavaScript |
-| [animal_valley](https://github.com/p3acefll/animal_valley) | Учебный игровой прототип: огород, рыбалка, интерьер и сохранение прогресса | C#, Unity |
-
-В README проектов — назначение, устройство и инструкции по запуску.
-
+- **ASP.NET Core** — создание веб-приложений и API.
+- **REST** — проектирование интерфейсов взаимодействия между приложениями.
+- **SQL и PostgreSQL** — работа с реляционными базами данных.
+- **Архитектура backend-приложений** — организация кода и разделение ответственности.
